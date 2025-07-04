@@ -182,6 +182,10 @@ function sesliHarfSayaci(/*buraya kodunu yazabilirsin*/) {
   /*buraya kodunu yazabilirsin*/
 }
 
+function carpma(a,b){
+  return a*b;
+}
+
 /* Lütfen bu satırın alt tarafını değiştirmeyin */
 function sa() {
   console.log("Kodlar çalışıyor");
